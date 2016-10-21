@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="PA1">PA1</string>
+    <string name="PA2">PA2</string>
+    <string name="PA3">PA3</string>
+    <string name="PA4">PA4</string>
+    <string name="PB1">PB1</string>
+    <string name="PB2">PB2</string>
+    <string name="PB3">PB3</string>
+    <string name="PB4">PB4</string>
+    <string name="btnText">Calcular</string>
+
+</resources>
